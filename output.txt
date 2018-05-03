@@ -1,0 +1,36 @@
+C:\Users\sowja\AppData\Local\Programs\Python\Python36-32\python.exe C:/Users/sowja/PycharmProjects/pa4/pagerank.py
+
+Page Ranks of Documents in Input File ' test1.txt ' with Teleportation rate a = 0.15
+
+Document List according to their Page Rank:
+
+Documents  Page Rank
+---------  ---------------
+Doc 4      0.09033746513988597
+Doc 1      0.09910284527456842
+Doc 3      0.13267406923013175
+Doc 2      0.18885233801987483
+Doc 0      0.239033282335539
+
+
+
+Page Ranks of Documents in Input File ' test2.txt ' with Teleportation rate a = 0.15
+
+Document List according to their Page Rank:
+
+Documents  Page Rank
+---------  ---------------
+Doc 4      0.03665251973604161
+Doc 6      0.03665251973604161
+Doc 0      0.12169128042182996
+Doc 7      0.12948715744221725
+Doc 2      0.142245407591204
+Doc 1      0.1899218693635042
+Doc 3      0.2026801195124909
+Doc 5      0.20876541815967875
+Doc 9      0.21375082210598076
+Doc 8      0.21815288593101134
+
+
+
+Process finished with exit code 0
