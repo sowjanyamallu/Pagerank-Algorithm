@@ -1,2 +1,2 @@
 # Pagerank-Algorithm
-Information Retrieval
+Information Retrieval iitCS-429
